@@ -10,11 +10,8 @@ Saya adalah seorang Data Analyst yang mendalami dalam bidang Operational dan Fin
 - SQL / PostgreSQL
 
 ## 📂 Proyek Pilihan
-### [ToDo App](https://github.com/johndoe/todo-app)
-Aplikasi manajemen tugas berbasis React.
-
-### [API Cuaca](https://github.com/johndoe/weather-api)
-REST API untuk data cuaca realtime.
+### [Tiered Risk Scoring System](tbd)
+‘Tiered Risk Scoring System’, an ML model to predict customer loan defaults.
 
 ## 📫 Kontak
 - 📧 tangguhislamw@gmail.com
