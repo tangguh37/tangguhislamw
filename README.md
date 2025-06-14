@@ -12,6 +12,7 @@ Saya adalah seorang Data Analyst yang mendalami dalam bidang Operational dan Fin
 ## 📂 Proyek Pilihan
 ### [Tiered Risk Scoring System](tbd)
 ‘Tiered Risk Scoring System’, an ML model to predict customer loan defaults.
+link: https://github.com/riza-satrio/final-project/tree/main
 
 ## 📫 Kontak
 - 📧 tangguhislamw@gmail.com
